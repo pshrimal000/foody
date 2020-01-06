@@ -1,0 +1,26 @@
+body
+{
+	background-image: url(que.jpg);
+	font-family:'Raleway',sans-serif;
+}
+.c1 h1
+{
+	text-decoration-color: black;
+	font-weight: bold;
+	font-size: 35px;
+	color: purple;
+}
+.c1 h2
+{
+	font-family: 'Roboto',monospace;
+	font-size: 50px;
+	text-shadow: auto;
+	text-indent: : auto;
+	font-weight: bold;
+}
+.c1 h3
+{
+	font-family: 'Raleway',cursive;
+	font-size: 20px;
+	font-weight: bold;
+}

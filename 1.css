@@ -1,0 +1,43 @@
+body
+{
+    background-size: cover;
+    text-decoration: none;
+}
+h1
+{
+	font-size: 30px;
+}
+.loginbox
+{
+    background: rgb(0,0,0,0.0);
+    border-radius: 40px;
+    width:450px;
+    height: 450px;
+    color:#fff;
+    top:50%;
+    left: 20%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+.text
+{
+color:black;
+font-weight: bold;
+}
+.pic
+{
+	margin-left: 700px;
+	height:50%;
+	width: 50%;
+}
+.button2
+{
+	margin-left: 100px;
+	margin-right: 300px;
+}
+.c3
+{
+	margin-bottom: 100px;
+}
